@@ -1,5 +1,7 @@
 # Chat in NodeJS and socket IO
 
+![img](./extras/night_chat.gif)
+
 ### Installation
 
 ```
