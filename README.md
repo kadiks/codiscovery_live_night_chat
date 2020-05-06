@@ -1,6 +1,10 @@
 # Chat in NodeJS and socket IO
 
+[View the online finalized version](http://codiscovery-night-chat.herokuapp.com/)
+
 ![img](./extras/night_chat.gif)
+
+[View the finalized version source code](https://github.com/kadiks/codiscovery_night_chat/)
 
 ### Installation
 
