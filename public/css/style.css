@@ -1,0 +1,16 @@
+.chat-screen {
+    display: none;
+}
+
+.message {
+    background-color: lightgray;
+}
+.message.sender {
+    background-color: blue;
+    color: white;
+    text-align: right;
+}
+
+.message img {
+    width: 30px;
+}
